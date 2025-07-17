@@ -777,7 +777,8 @@ function App() {
               
               <div className="h-[600px] rounded-xl overflow-hidden">
                 <LoadScript 
-                  googleMapsApiKey="xxxxxxxxxxxxxxxxxxxxxxxx"
+                  
+                  googleMapsApiKey={import.meta.env.VITE_GOOGLE_MAPS_API_KEY}
                   libraries={["places", "geometry"]}
                   onLoad={() => setIsGoogleLoaded(true)}
                 >
