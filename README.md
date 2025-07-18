@@ -1,6 +1,6 @@
 # EVverse: Electric Vehicle Route Planner
 
-EVverse is a responsive web application built with React and TypeScript, utilising Vite for fast development and the Google Maps API for electric vehicle (EV) route planning and charging station lookup. It empowers users to plan efficient EV routes with optimized charging stops based on vehicle battery range and charge level, and locate nearby charging stations with detailed information such as connector types, power output, and user ratings. The project is actively developing a **booking feature** to allow users to reserve chargers in advance, addressing the charger shortage problem with a practical and user-first approach.
+EVverse is a responsive web application built with React and TypeScript, utilising Vite for fast development and the Google Maps API for electric vehicle (EV) route planning and charging station lookup. It empowers users to plan efficient EV routes with optimised charging stops based on vehicle battery range and charge level, and locate nearby charging stations with detailed information such as connector types, power output, and user ratings. The project is actively developing a **booking feature** to allow users to reserve chargers in advance, addressing the charger shortage problem with a practical and user-first approach.
 
 ## Features
 
